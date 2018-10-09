@@ -1,0 +1,27 @@
+﻿Observer (ook bekend als Subject-Observer, Dependents of Publish-Subscribe) is een ontwerppatroon in de 
+object-georiënteerde softwareontwikkeling. Het patroon beschrijft een efficiënte en redelijk ontkoppelde 
+manier waarop objecten in een programma kennis kunnen nemen van relevante toestandsveranderingen binnen 
+andere objecten in hetzelfde programma.
+
+Toepassing
+Het observerpatroon is van toepassing op situaties waarin een entiteit binnen een programma moet reageren op een 
+gebeurtenis binnen hetzelfde programma, maar waarbij de toestandsverandering niet in die entiteit zelf plaatsvindt. 
+Het klassieke voorbeeld hiervan is een spreadsheet: als de waarde in een cel verandert, moeten bijvoorbeeld 
+grafieken die die waarde weergeven mee veranderen. Maar er zijn legio andere voorbeelden te bedenken: 
+het opvragen van een pagina in een webapplicatie veroorzaakt het aanpassen van statistieken over het 
+gebruik van de applicatie, het invoegen van een rij in een tabel in een database zorgt ervoor dat een 
+"trigger" afgevuurd wordt, een beweging van de muis zorgt ervoor dat de cursor op het scherm verplaatst wordt, 
+een hartbewakingsmonitor die opmerkt dat het hartritme buiten de gestelde waarden treedt, doet een alarm afgaan 
+bij de verpleging.
+
+Het doel in al deze gevallen is dat een toestandsverandering in 
+een object opgemerkt wordt in een ander object. En dit het liefst zonder dat de objecten sterk gekoppeld zijn 
+(zodat de objecten vrij onafhankelijk van elkaar bestaan en wellicht hergebruikt kunnen worden) en 
+zonder dat het opmerken al te duur is (in het geval van een spreadsheet: om een grafiek actueel te houden, 
+is het bij voorkeur niet nodig dat iedere microseconde de hele spreadsheet doorlopen wordt om veranderingen 
+te detecteren).
+
+Meer info, bekijk:
+https://nl.wikipedia.org/wiki/Observer_(ontwerppatroon)
+
+

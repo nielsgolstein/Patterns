@@ -1,0 +1,7 @@
+C:\Users\Niels\Desktop\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\Niels\Desktop\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Niels\Desktop\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Niels\Desktop\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Niels\Desktop\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Niels\Desktop\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Niels\Desktop\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
